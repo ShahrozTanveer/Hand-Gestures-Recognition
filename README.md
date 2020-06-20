@@ -45,7 +45,7 @@ $ pyhton3 script.py
 *make sure before running code paste .cfg and .weights files*
 
 ## Check out my Face detection and recognition with Deep learning
-* [Link!](https://github.com/ShahrozTanveer/Face-Detection-and-Recognition)
+* [Face detection and recognition!](https://github.com/ShahrozTanveer/Face-Detection-and-Recognition)
 
 ### Author
 
