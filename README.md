@@ -42,7 +42,7 @@ $ pip3 install -r requirements.txt
 ```bash
 $ pyhton3 script.py
 ```
-*make sure before running code paste .cfg and .weights files*
+* make sure before running code paste .weights file in Yolo Directory*
 
 ## Check out my Face detection and recognition with Deep learning
 * [Face detection and recognition!](https://github.com/ShahrozTanveer/Face-Detection-and-Recognition)
