@@ -46,6 +46,8 @@ $ pyhton3 script.py
 
 ## Check out my Face detection and recognition with Deep learning
 * [Face detection and recognition!](https://github.com/ShahrozTanveer/Face-Detection-and-Recognition)
+* [Hand-Gestures-Recognition-ASL!](https://github.com/ShahrozTanveer/Hand-Gestures-Recognition-ASL)
+
 
 ### Author
 
