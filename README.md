@@ -44,7 +44,7 @@ $ pyhton3 script.py
 ```
 * make sure before running code paste .weights file in Yolo Directory*
 
-## Check out my Face detection and recognition with Deep learning
+## Check out my other Deep Learning Projects
 * [Face detection and recognition!](https://github.com/ShahrozTanveer/Face-Detection-and-Recognition)
 * [Hand-Gestures-Recognition-ASL!](https://github.com/ShahrozTanveer/Hand-Gestures-Recognition-ASL)
 
